@@ -90,5 +90,4 @@ lib-default-features = false
 # Optional. Defaults to "release".
 lib-profile-release = "wasm-release"
 
-[template]
-exclude = ["assets/favicon.ico"]
+
